@@ -8,7 +8,7 @@ document.head.appendChild(script);
 const MusicPlayer = () => {
   // Playlist - MODIFICA QUI CON I TUOI LINK DI GOOGLE DRIVE
   const audioFiles = [
-    "https://drive.google.com/uc?export=download&id=TUO_ID_FILE_1", // Sostituisci con i tuoi ID file
+    "https://drive.google.com/uc?export=download&id=1CO-1TWrZrTJOKMoBovw7-0F9iG0Pffoa", // Sostituisci con i tuoi ID file
     "https://drive.google.com/uc?export=download&id=TUO_ID_FILE_2",
     "https://drive.google.com/uc?export=download&id=TUO_ID_FILE_3",
     "https://drive.google.com/uc?export=download&id=TUO_ID_FILE_4",
